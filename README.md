@@ -1,10 +1,10 @@
 # nginx
 
 ## 参考资料
-<http://bbs.linuxtone.org/thread-25588-1-1.html>
-<http://shouce.jb51.net/nginx/left.html>
-<http://tool.oschina.net/apidocs/apidoc?api=nginx-zh>
-<http://www.nginx.cn/doc/>
+- <http://bbs.linuxtone.org/thread-25588-1-1.html>
+- <http://shouce.jb51.net/nginx/left.html>
+- <http://tool.oschina.net/apidocs/apidoc?api=nginx-zh>
+- <http://www.nginx.cn/doc/>
 
 ## 网上最全面nginx教程（近100篇文章整理）
 
